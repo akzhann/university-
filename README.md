@@ -4,24 +4,24 @@
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
+# This function subtracts one numbers
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# This function multiplies one numbers
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# This function divides one numbers
 def divide(x, y):
     return x / y
 
 
 print("Select operation.")
 print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("2.assylbekova")
+print("3.dream")
+print("4.camry75")
 
 while True:
     # take input from the user
